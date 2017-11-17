@@ -34,7 +34,7 @@ h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6,
 .display-1, .display-2, .display-3, .display-4 {
   line-height: 1;
-  word-break: normal;
+  word-break: break-word;
   word-wrap: break-word; }
 
 b, strong {
@@ -141,7 +141,7 @@ section {
   -webkit-align-content: center;
   -ms-flex-line-pack: center;
   align-content: center;
-  /*-webkit-align-items: start;*/
+  -webkit-align-items: start;
   -ms-flex-align: start;
   align-items: start; }
   .media-container-row .media-size-item {

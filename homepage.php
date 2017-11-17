@@ -37,7 +37,7 @@
                         <img src="assets/images/logo2.png" alt="Mobirise" media-simple="true" style="height: 3.8rem;">
                     </a>
                 </span> <span class="navbar-caption-wrap"><a class="navbar-caption text-black display-4" href="homepage.php">
-                        DHT PICTURE</a></span> </div>
+                        PICHUB</a></span> </div>
       </div>
       <div class="wrap">
         <div class="search">
@@ -77,7 +77,7 @@
     <div class="container">
       <div class="row justify-content-md-center">
         <div class="mbr-white col-md-10">
-          <h1 class="mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style display-1">DTH PICTURE</h1>
+          <h1 class="mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style display-1">PICHUB</h1>
           <h3 class="mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style display-2">Trang web quản lý album ảnh miễn phí</h3>
           <p class="mbr-text align-center pb-3 mbr-fonts-style display-5"> Bạn có thể xem và tải những bức ảnh với chất lượng RAW hoặc những bức ảnh JPEG chất lượng cao</p>
           <div class="mbr-section-btn align-center">
@@ -92,7 +92,7 @@
     <div class="container">
       <div class="inner-container" style="width: 100%;">
         <hr class="line" style="width: 25%;">
-        <div class="section-text align-center mbr-fonts-style display-5">"DTH là một trong những trang web quản lý ảnh tuyệt vời nhất mà tôi từng biết đến"
+        <div class="section-text align-center mbr-fonts-style display-5">"PICHUB là một trong những trang web quản lý ảnh tuyệt vời nhất mà tôi từng biết đến"
           <br>-said no one ever-&nbsp;</div>
         <hr class="line" style="width: 25%;"> </div>
     </div>
@@ -216,7 +216,7 @@
     <div align="center">
         <div class="row">
             <div class="col-lg-12">
-                <p>Copyright &copy; DTH Team 2017</p>
+                <p>Copyright &copy; PICHUB Team 2017</p>
             </div>
         </div>
     </div>
